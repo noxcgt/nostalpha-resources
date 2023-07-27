@@ -16,5 +16,5 @@ Get-ChildItem -Recurse -Include *.ogg, *.mus -File | ForEach-Object {
 }
 
 $output += "</ResourceList>"
-$output | Out-File index.xml
+$output | Out-File index.xml -Encoding utf8
 Write-Output "The XML file has been generated with $($counter) resources."

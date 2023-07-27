@@ -15,5 +15,5 @@ find . -type f \( -name "*.ogg" -o -name "*.mus" \) | while read -r file; do
 done
 
 output+="</ResourceList>"
-echo -e "$output" > index.xml
+printf '%b' "$output" > index.xml
 echo "The XML file has been generated with ${counter} resources."
