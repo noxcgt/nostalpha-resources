@@ -142,120 +142,8 @@
         <Size>5609</Size>
     </Contents>
     <Contents>
-        <Key>sound/liquid/splash.ogg</Key>
-        <Size>11333</Size>
-    </Contents>
-    <Contents>
         <Key>sound/liquid/water.ogg</Key>
         <Size>36329</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/affectionate scream.ogg</Key>
-        <Size>9367</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/charge.ogg</Key>
-        <Size>13415</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/death.ogg</Key>
-        <Size>26853</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/fireball4.ogg</Key>
-        <Size>8535</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/moan1.ogg</Key>
-        <Size>7986</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/moan2.ogg</Key>
-        <Size>8909</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/moan3.ogg</Key>
-        <Size>8925</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/moan4.ogg</Key>
-        <Size>9393</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/moan5.ogg</Key>
-        <Size>14107</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/moan6.ogg</Key>
-        <Size>18305</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/moan7.ogg</Key>
-        <Size>9222</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/scream1.ogg</Key>
-        <Size>10828</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/scream2.ogg</Key>
-        <Size>11455</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/scream3.ogg</Key>
-        <Size>9399</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/scream4.ogg</Key>
-        <Size>12220</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/ghast/scream5.ogg</Key>
-        <Size>11650</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpig1.ogg</Key>
-        <Size>8536</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpig2.ogg</Key>
-        <Size>10038</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpig3.ogg</Key>
-        <Size>5916</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpig4.ogg</Key>
-        <Size>7066</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpigangry1.ogg</Key>
-        <Size>8946</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpigangry2.ogg</Key>
-        <Size>5789</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpigangry3.ogg</Key>
-        <Size>9061</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpigangry4.ogg</Key>
-        <Size>9925</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpigdeath.ogg</Key>
-        <Size>10357</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpighurt1.ogg</Key>
-        <Size>6935</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/mob/zombiepig/zpighurt2.ogg</Key>
-        <Size>6245</Size>
     </Contents>
     <Contents>
         <Key>sound/mob/chicken1.ogg</Key>
@@ -462,28 +350,16 @@
         <Size>11005</Size>
     </Contents>
     <Contents>
-        <Key>sound/portal/portal.ogg</Key>
-        <Size>25153</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/portal/travel.ogg</Key>
-        <Size>54283</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/portal/trigger.ogg</Key>
-        <Size>24992</Size>
-    </Contents>
-    <Contents>
         <Key>sound/random/bow.ogg</Key>
         <Size>8589</Size>
     </Contents>
     <Contents>
-        <Key>sound/random/breath.ogg</Key>
-        <Size>14331</Size>
-    </Contents>
-    <Contents>
         <Key>sound/random/click.ogg</Key>
         <Size>7046</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/random/craft.ogg</Key>
+        <Size>4385</Size>
     </Contents>
     <Contents>
         <Key>sound/random/door_close.ogg</Key>
@@ -532,10 +408,6 @@
     <Contents>
         <Key>sound/random/splash.ogg</Key>
         <Size>11333</Size>
-    </Contents>
-    <Contents>
-        <Key>sound/random/wood click.ogg</Key>
-        <Size>4385</Size>
     </Contents>
     <Contents>
         <Key>sound/step/cloth1.ogg</Key>
