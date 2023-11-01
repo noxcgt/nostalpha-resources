@@ -146,6 +146,46 @@
         <Size>36329</Size>
     </Contents>
     <Contents>
+        <Key>sound/mob/bat/death.ogg</Key>
+        <Size>8726</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/mob/bat/hurt1.ogg</Key>
+        <Size>4878</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/mob/bat/hurt2.ogg</Key>
+        <Size>5530</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/mob/bat/hurt3.ogg</Key>
+        <Size>5249</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/mob/bat/hurt4.ogg</Key>
+        <Size>5410</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/mob/bat/idle1.ogg</Key>
+        <Size>5708</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/mob/bat/idle2.ogg</Key>
+        <Size>4767</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/mob/bat/idle3.ogg</Key>
+        <Size>4777</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/mob/bat/idle4.ogg</Key>
+        <Size>5274</Size>
+    </Contents>
+    <Contents>
+        <Key>sound/mob/bat/takeoff.ogg</Key>
+        <Size>8821</Size>
+    </Contents>
+    <Contents>
         <Key>sound/mob/chicken1.ogg</Key>
         <Size>7956</Size>
     </Contents>
